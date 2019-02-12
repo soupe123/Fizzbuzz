@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c84078e3-7d00-4a7f-acf2-73d7d0f8c385" name="Default Changelist" comment="" />
+    <list default="true" id="c84078e3-7d00-4a7f-acf2-73d7d0f8c385" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mappy/LogRunner$$anonfun$withColumnsFromSplit$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mappy/LogRunner$$anonfun$withColumnsFromSplit$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mappy/LogRunner$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mappy/LogRunner$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/mappy/LogTest$$anonfun$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/mappy/LogTest$$anonfun$2$$anonfun$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/mappy/LogTest$$anonfun$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/mappy/LogTest$$anonfun$3$$anonfun$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/mappy/LogTest$$anonfun$3$$anonfun$8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/mappy/LogTest$$anonfun$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/mappy/LogTest$$anonfun$4$$anonfun$10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/mappy/LogTest$$anonfun$4$$anonfun$11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/mappy/LogTest$$anonfun$4$$anonfun$9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/mappy/LogTest$$anonfun$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/mappy/LogTest$$anonfun$5$$anonfun$12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/mappy/LogTest$$anonfun$5$$anonfun$13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/mappy/LogTest$$anonfun$5$$anonfun$14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/mappy/LogTest$$anonfun$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/mappy/LogTest.class" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,25 +32,9 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/com/mappy/LogRunner.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-              <folding>
-                <element signature="e#19#80#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/scala/LogTest.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -49,6 +53,9 @@
       <find>hybrid</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -63,8 +70,9 @@
         <option value="$PROJECT_DIR$/src/test/scala/SparkSessionTestWrapper.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/mappy/SparkSessionWrapper.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/mappy/LogFunctions.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/mappy/LogRunner.scala" />
         <option value="$PROJECT_DIR$/src/test/scala/LogTest.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/mappy/LogRunner.scala" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -75,12 +83,29 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="exercice" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="exercice" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="36" />
     <option name="y" value="77" />
     <option name="width" value="1364" />
     <option name="height" value="764" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -97,6 +122,11 @@
             <path>
               <item name="exercice" type="b2602c69:ProjectViewProjectNode" />
               <item name="exercice" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exercice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="exercice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -108,37 +138,13 @@
             <path>
               <item name="exercice" type="b2602c69:ProjectViewProjectNode" />
               <item name="exercice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="exercice" type="b2602c69:ProjectViewProjectNode" />
               <item name="exercice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="mappy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="exercice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exercice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="exercice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exercice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="exercice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exercice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="test-classes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -154,15 +160,15 @@
     <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/test/scala" />
-      <recent name="$PROJECT_DIR$/src/test/resources" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.mappy" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/resources" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/scala" />
+      <recent name="$PROJECT_DIR$/src/test/resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -301,9 +307,6 @@
     </recent_temporary>
   </component>
   <component name="TestHistory">
-    <history-entry file="LogTest_Test_Tranform_to_DF - 2019.02.11 at 23h 36m 54s.xml">
-      <configuration name="LogTest.Test Tranform to DF" configurationId="ScalaTestRunConfiguration" />
-    </history-entry>
     <history-entry file="LogTest_Test_Tranform_to_DF - 2019.02.11 at 23h 37m 11s.xml">
       <configuration name="LogTest.Test Tranform to DF" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
@@ -331,6 +334,9 @@
     <history-entry file="LogTest_Test_0__Read_Raw_File - 2019.02.12 at 00h 28m 24s.xml">
       <configuration name="LogTest.Test 0: Read Raw File" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
+    <history-entry file="LogTest_(1) - 2019.02.12 at 00h 28m 56s.xml">
+      <configuration name="LogTest (1)" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="825" extended-state="6" />
@@ -339,15 +345,15 @@
       <window_info id="UI Designer" order="0" />
       <window_info id="Favorites" order="1" side_tool="true" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="3" visible="true" weight="0.24964234" />
+      <window_info active="true" content_ui="combo" id="Project" order="3" visible="true" weight="0.24964234" />
       <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="0" visible="true" weight="0.3287858" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="2" weight="0.3287858" />
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.39427012" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.39427012" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -361,49 +367,14 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/scala/Mappy.scala">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/scriptFile.scala">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/tornik-map-20171006.10000.tsv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="11" selection-start-column="11" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/LogModel.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="60" selection-start-line="2" selection-start-column="52" selection-end-line="2" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/Logfunctions.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <element signature="e#0#50#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/LogRunner.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/scala/mappy/LogFunctions.scala">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/scala/mappy/LogRunner.scala">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Mappy.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/scriptFile.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/tornik-map-20171006.10000.tsv" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/LogModel.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Logfunctions.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/LogRunner.scala" />
+    <entry file="file://$PROJECT_DIR$/src/test/scala/mappy/LogFunctions.scala" />
+    <entry file="file://$PROJECT_DIR$/src/test/scala/mappy/LogRunner.scala" />
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.11/2.4.0/spark-sql_2.11-2.4.0.jar!/org/apache/spark/sql/functions.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="118">
@@ -425,23 +396,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/mappy/SparkSessionWrapper.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/mappy/LogFunctions.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#19#66#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/mappy/SparkSessionWrapper.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/mappy/LogFunctions.scala" />
     <entry file="file://$PROJECT_DIR$/src/test/scala/SparkSessionTestWrapper.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -449,22 +405,35 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/LogTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="78" />
+          <folding>
+            <element signature="e#18#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/com/mappy/LogRunner.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="294">
+          <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
           <folding>
             <element signature="e#19#80#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/scala/LogTest.scala">
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+        <state relative-caret-position="465">
+          <caret line="31" column="31" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">

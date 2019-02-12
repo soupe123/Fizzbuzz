@@ -20,7 +20,7 @@ object LogRunner {
 
     val logFile = getClass.getResource(args(0)).getPath
     val df = spark.read.textFile(logFile).toDF("value")
-    val pattern = "/map/1.0/slab/*/*/*/*/"
+    val pattern = "/map/1.0/slab/.*/.*/.*/.*/"
 
     val countDfWithZoom = df.transform(filterWithRegex(col("value"), pattern))
       .transform(withColumnsFromSplit())

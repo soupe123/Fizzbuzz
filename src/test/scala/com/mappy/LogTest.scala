@@ -14,7 +14,7 @@ class LogTest extends FunSuite with SequentialNestedSuiteExecution with SparkSes
   val logFile = getClass.getResource("/tornik-map-20171006.10000.tsv").getPath
 
   val df = spark.read.textFile(logFile).toDF("value")
-  val pattern = "/map/1.0/slab/*/*/*/*/"
+  val pattern = "/map/1.0/slab/.*/.*/.*/.*/"
 
   test("Test 0: Read Raw File ") {
     df.show
@@ -24,7 +24,6 @@ class LogTest extends FunSuite with SequentialNestedSuiteExecution with SparkSes
 
   test("Test 1 : Filtred DF") {
     val filtredDf= df.transform(filterWithRegex(col("value"),pattern))
-    filtredDf.show()
     println(filtredDf.count)
   }
 
